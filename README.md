@@ -1,4 +1,4 @@
-# 🇺🇸 US Disaster Declarations Dashboard
+# US Disaster Declarations Dashboard
 
 ## 📌 Project Overview
 
