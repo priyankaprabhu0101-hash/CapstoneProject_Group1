@@ -216,6 +216,25 @@ Provides interactive disaster forecasting using Power BI What-If Parameters.
 
 ---
 
+# Dashboard Preview
+
+## Overview
+![Overview](Images/Overview.png)
+
+## Geographic Analysis
+![Geographic Analysis](Images/Geographic_Analysis.png)
+
+## Temporal Trends
+![Temporal Trends](Images/Temporal_Trends.png)
+
+## Incident & Program Insights
+![Incident & Program Insights](Images/Incident_Program_Insights.png)
+
+## Scenario Insights
+![Scenario Insights](Images/Scenario_Insights.png)
+
+---
+
 # 📄 License
 
 This project was created for educational purposes as part of a Data Analytics Capstone Project. FEMA disaster data is publicly available through official U.S. government sources.
